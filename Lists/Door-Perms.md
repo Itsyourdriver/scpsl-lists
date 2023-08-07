@@ -1,4 +1,5 @@
-``` None
+```
+    None
     Checkpoints
     ExitGates
     Intercom
@@ -9,6 +10,7 @@
     ArmoryLevelOne
     ArmoryLevelTwo
     ArmoryLevelThree
-    ScpOverride```
+    ScpOverride
+```
 
 Credit: bonjemus
