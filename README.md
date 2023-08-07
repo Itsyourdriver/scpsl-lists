@@ -9,7 +9,7 @@ Credits to: x3rt & bonjemus from the nwapi discord
 
 
 
-
+View the lists here: https://github.com/Itsyourdriver/scpsl-list/tree/main/Lists
 
 ```
 Repo/
