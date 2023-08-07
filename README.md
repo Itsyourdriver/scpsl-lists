@@ -6,3 +6,16 @@ This repo is a resource that hosts a list of prefabs, items, permissions, door t
 
 
 Credits to: x3rt & bonjemus from the nwapi discord
+
+
+
+
+
+```
+Repo/
+└── Lists/
+    ├── Door-Perms.md
+    ├── Doors.md
+    ├── Items.md
+    └── Prefabs.md
+```
