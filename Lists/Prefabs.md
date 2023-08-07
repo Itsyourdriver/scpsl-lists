@@ -1,5 +1,6 @@
-``````Name | Tag | Layer
+```
 ---------------------------
+Name | Tag | Layer
 Player | Player | 2
 EZ BreakableDoor | Untagged | 0
 HCZ BreakableDoor | Untagged | 18
@@ -81,6 +82,7 @@ SCP-096_Ragdoll | Ragdoll | 17
 Ragdoll_10 | Ragdoll | 17
 Ragdoll_Tut | Ragdoll | 17
 Ragdoll_12 | Ragdoll | 17
-SCP-939_Ragdoll | Untagged | 17```
+SCP-939_Ragdoll | Untagged | 17
+```
 
 Credit: x3rt
