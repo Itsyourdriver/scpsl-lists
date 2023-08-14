@@ -5,8 +5,7 @@ This repo is a resource that hosts a list of prefabs, items, permissions, door t
 
 
 
-Credits to: x3rt & bonjemus from the nwapi discord
-
+Credits are included in each file.
 
 
 View the lists here: https://github.com/Itsyourdriver/scpsl-lists/tree/main/Lists
@@ -16,6 +15,8 @@ Repo/
 └── Lists/
     ├── Door-Perms.md
     ├── Doors.md
+    ├── Effects.md (empty)
     ├── Items.md
-    └── Prefabs.md
+    ├── Prefabs.md
+    └── RoleType.md
 ```
