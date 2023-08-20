@@ -36,4 +36,4 @@ ESCAPE_SECONDARY
 ```
 
 
-unfinished, this is mainly just a list for creating regular doors, might be missing some types
+unfinished, needs an audit, based off of the RA list
