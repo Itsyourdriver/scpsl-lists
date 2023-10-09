@@ -1,0 +1,9 @@
+```
+Unknown
+GateA
+GateB
+Nuke
+Scp049
+LczA
+LczB
+```
