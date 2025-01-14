@@ -1,3 +1,6 @@
+# Notice: I will no longer be updating this. 
+If you want to see updated versions of all of these, along with more lists (due to these being from the EXILED discord), join the official EXILED (not reboot) server here: https://discord.gg/PyUkWTg
+
 # SCP:Secret Laboratory Prefab, Item, Permission, And Door Type List
 This repo is a resource that hosts a list of prefabs, items, permissions, door types and more for plugin development.
 
